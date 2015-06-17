@@ -10,5 +10,7 @@ Aqui está uma foto dele:
 
 Bom trabalho Dona Didi!
 
+![](http://www.storytrap.com/wp-content/uploads/2015/01/urlbb.gif)
+
 
 [Zyon]: https://caes101.files.wordpress.com/2012/11/filhote-de-cachorro-fofo.jpg
