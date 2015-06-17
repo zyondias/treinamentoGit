@@ -83,7 +83,6 @@ _No git você faz cópias locais de todo o seu repositório, há vários backups
 1. No eclipse<br />
 ``Import -> Projects from Git``
 2. por linha de comando<br />
-``Cria pasta``<br />
 ``git clone <URL>``
 	
 	
