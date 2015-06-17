@@ -2,7 +2,7 @@
 1. Explicar que no SVN o seu repositório é o remoto apenas<br />
 _No git você faz cópias locais de todo o seu repositório, há vários backups_
 2. Slide de apoio<br />
-_http://pt.slideshare.net/dist___bp/git-23107813_
+``http://pt.slideshare.net/dist_bp/git-23107813``
 
 
 ## Como instalar?
@@ -11,12 +11,12 @@ _http://pt.slideshare.net/dist___bp/git-23107813_
 ## Servidores Remotos
 
 1. mostrar gitlab<br />
-_http://git.buscapecompany.com_
+``http://git.buscapecompany.com``
 2. mostrar Stash<br />
-_https://www.atlassian.com/software/stash_
-_https://www.atlassian.com/git/tutorials_
+``https://www.atlassian.com/software/stash``<br />
+``https://www.atlassian.com/git/tutorials``
 3. mostrar github<br />
-_http://github.com_
+``http://github.com``
 
 
 ## Configurações
