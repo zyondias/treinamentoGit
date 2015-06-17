@@ -1,6 +1,6 @@
 # A história de um cachorro
 
-Era uma vez um cachorro chamado Zazá.
+Era uma vez um cachorro chamado Zazá
 
 Ele adorava sua cidade, [Caraguatatuba](https://pt.wikipedia.org/wiki/Caraguatatuba) 
 
