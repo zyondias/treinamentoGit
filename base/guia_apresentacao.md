@@ -74,7 +74,7 @@ _No git você faz cópias locais de todo o seu repositório, há vários backups
 	
 			git remote add origin https://github.com/tsfreitas/treinamentoGitProv.git
 			fazer push pelo eclipse
-			git push origin master
+			git push -u origin master
 
 ####Fazendo commit local com conexão remota syncada
 			Faz commit e commit e push
