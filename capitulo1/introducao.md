@@ -8,7 +8,7 @@ Aqui está uma foto dele:
 
 ![][Zyon]
 
-Bom trabalho Dona Didi!
+Bom trabalho Dona Diretriz!
 
 ![](http://www.storytrap.com/wp-content/uploads/2015/01/urlbb.gif)
 
