@@ -40,7 +40,7 @@ _http://github.com_
 - capturar chave pública
 - adicionar na sua ferramenta git
 
-_https://help.github.com/articles/generating-ssh-keys/#platform-windows_
+``https://help.github.com/articles/generating-ssh-keys/#platform-windows``
 
 ## Criar repositório
 1. Pelo eclipse 
